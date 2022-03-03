@@ -1,2 +1,2 @@
 # C-basics
-Contains simple programs that I made when following along with youtube videos when learning how to code in C++.
+Contains simple programs that I made from follow along videos when learning how to code in C++.
