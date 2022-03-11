@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620089551 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\slapper\main.cpp
+	<iostream>
+	"SlapDude.h"
+
+1620089462 c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\slapper\slapdude.h
+
+1620089558 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\slapper\slapdude.cpp
+	"SlapDude.h"
+	<iostream>
+

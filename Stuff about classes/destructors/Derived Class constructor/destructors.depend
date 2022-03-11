@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1620172487 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\destructors\derived class constructor\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1620168352 c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\destructors\derived class constructor\mother.h
+
+1620172461 c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\destructors\derived class constructor\daughter.h
+
+1620172469 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\destructors\derived class constructor\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1620172379 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\destructors\derived class constructor\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+

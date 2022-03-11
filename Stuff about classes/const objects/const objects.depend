@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620092853 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\const objects\main.cpp
+	<iostream>
+	"Sam.h"
+
+1620092524 c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\const objects\sam.h
+
+1620092820 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\const objects\sam.cpp
+	"Sam.h"
+	<iostream>
+

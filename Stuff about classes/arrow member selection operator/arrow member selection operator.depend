@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620086411 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\arrow member selection operator\main.cpp
+	<iostream>
+	"Slapper.h"
+
+1646963461 c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\arrow member selection operator\slapper.h
+
+1646963360 source:c:\users\hendr\onedrive\desktop\coding stuff\c++ basics\stuff about classes\arrow member selection operator\slapper.cpp
+	"Slapper.h"
+	<iostream>
+
